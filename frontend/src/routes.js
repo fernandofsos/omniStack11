@@ -6,7 +6,6 @@ import Register from './pages/Register'
 import Profile from './pages/Profile';
 import NewIncident from './pages/NewIncident';
 
-
 export default function Routes(){
     return(
         <BrowserRouter>
